@@ -1,0 +1,10 @@
+.header{
+    margin-bottom: 100px;
+}
+
+
+#info{
+    height: 200px;
+    width: 500px;
+    background-color: gray;
+}
